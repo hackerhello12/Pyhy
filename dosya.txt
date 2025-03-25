@@ -1,1 +1,8 @@
-Hdjd
+[
+  {
+    "server": "5.35.126.188",
+    "server_port": 593,
+    "password": "740f93aa6c8e1272",
+    "method": "aes-256-cfb"
+  }
+]
